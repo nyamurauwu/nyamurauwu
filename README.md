@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nyamurauwu/nyamurauwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Leslie 🏳️‍⚧️
 
-Here are some ideas to get you started:
+  `She/Her`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,bash,debian,vim,git&theme=dark" />
+  </a>
+
+  <br><br>
+
+  <a href="https://nyamurauwu.dev">
+    <img src="https://img.shields.io/badge/nyamurauwu.dev-222222?style=flat-square&logo=firefox&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discord-nyamurauwu-222222?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+
+</div>
