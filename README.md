@@ -1,13 +1,13 @@
 <div align="center">
 
-  # Leslie 🏳️‍⚧️
+  # Leslie
 
   `She/Her`
 
   <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,bash,debian,vim,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,bash,debian,asm,js,nodejs,ts,postgres&theme=dark" />
   </a>
 
   <br><br>
