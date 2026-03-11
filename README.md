@@ -7,7 +7,7 @@
   <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,bash,debian,asm,js,nodejs,ts,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,bash,debian,assembly,js,nodejs,ts,postgres&theme=dark" />
   </a>
 
   <br><br>
