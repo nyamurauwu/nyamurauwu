@@ -7,8 +7,10 @@
   <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,bash,debian,assembly,js,nodejs,ts,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,bash,debian,js,nodejs,ts,postgres&theme=dark" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Assembly-2E3333?style=flat-square&logo=processor&logoColor=white" alt="Assembly" />
 
   <br><br>
 
