@@ -1,25 +1,26 @@
 <div align="center">
 
-  # Leslie
+# Leslie
 
-  `She/Her`
+`She/Her`
 
-  <br>
+<br>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,bash,debian,js,nodejs,ts,postgres&theme=dark" />
-  </a>
-  <br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,bash,debian,js,nodejs,ts,postgres&theme=dark" />
+</a>
 
-  <img src="https://img.shields.io/badge/x86_Assembly-2E3333?style=flat-square&logo=gnuemacs&logoColor=white" alt="x86 Assembly" />
+<br>
 
-  <br><br>
+<img src="https://img.shields.io/badge/x86_Assembly-0071C5?style=flat-square&logo=intel&logoColor=white" />
 
-  <a href="https://nyamurauwu.dev">
-    <img src="https://img.shields.io/badge/nyamurauwu.dev-222222?style=flat-square&logo=firefox&logoColor=white" alt="Website" />
-  </a>
-  &nbsp;
+<br><br>
 
-  <img src="https://img.shields.io/badge/Discord-nyamurauwu-222222?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+<a href="https://nyamurauwu.dev">
+<img src="https://img.shields.io/badge/nyamurauwu.dev-222222?style=flat-square&logo=firefox&logoColor=white" />
+</a>
+&nbsp;
+
+<img src="https://img.shields.io/badge/Discord-nyamurauwu-222222?style=flat-square&logo=discord&logoColor=white" />
 
 </div>
